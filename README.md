@@ -3,7 +3,7 @@
 
 <img align="right" alt="react" width="400" src="./gif/reactLogo.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeet1439&label=Profile%20views&color=0e75b6&style=flat" alt="jeet1439" /> </p>
+
 
 - 🌱 I’m currently learning **MERN stack**
 

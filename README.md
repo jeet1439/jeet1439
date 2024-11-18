@@ -9,7 +9,7 @@
 
 - 📝 Some of my articles are on [hashnode](https://jithtc.hashnode.dev/)
 
-- 💬 I experiment with React at [CodeSandbox](https://codesandbox.io/dashboard/recent)
+- 💬 I experiment with React at [CodeSandbox](https://codesandbox.io/u/jeetbanik332004)
 
 - 📫 Reach me at: **jeetbanik332004@gmail.com**
 

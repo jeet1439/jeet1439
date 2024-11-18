@@ -5,15 +5,17 @@
 
 
 
-- 🌱 I’m currently working with **Next.js**
+- 🌱 I’m currently in my **3rd year** of B.Tech
 
 - 📝 Some of my articles are on [hashnode](https://jithtc.hashnode.dev/)
 
-- 💬 Ask me about **react, Next-js**
+- 💬 I experiment with React at [CodeSandbox](https://codesandbox.io/dashboard/recent)
 
-- 📫 reach me at **jeetbanik332004@gmail.com**
+- 📫 Reach me at: **jeetbanik332004@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+- 🎸 In my free time, I enjoy playing guitar & honing for Tech
+
+<h3 align="left">📩 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jeet kangsabanik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeet kangsabanik" height="30" width="40" /></a>
 <a href="https://hashnode.com/@yourjit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@yourjit" height="30" width="40" /></a>
